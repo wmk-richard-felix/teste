@@ -30,7 +30,7 @@ responses:
   - text: "I am a bot, powered by Rasa."
     buttons:
     - title: Ok
-      payload: hello
+      payload: hello1
 
 session_config:
   session_expiration_time: 60
