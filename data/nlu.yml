@@ -1,4 +1,4 @@
-version: "3.1"
+version: "2.0"
 
 nlu:
 - intent: greet
@@ -90,3 +90,4 @@ nlu:
     - are you a human?
     - am I talking to a bot?
     - am I talking to a human?
+
